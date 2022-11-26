@@ -1,0 +1,17 @@
+h1 {
+    color: darkslategray
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: darkseagreen;
+}
+
+#spanid {
+    margin: 50px;
+}
